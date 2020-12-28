@@ -1,0 +1,21 @@
+Craftables:
+  - 'IRON_INGOT:0:9:IRON_BLOCK'
+  - 'INK_SACK:4:9:LAPIS_BLOCK'
+  - 'COAL:0:9:COAL_BLOCK'
+
+Messages:
+  not-a-player: '&cPlayer was not found.'
+  invalid-uses: '&cInvalid uses, please input a valid number or -1 for infinite.'
+  invalid-amount: '&cInvalid amount, please input a valid number above 0.'
+  succesfully-crafted: '&aSuccesfully crafted {items} stacks.'
+  wand-destroyed: '&cYour Craft Wand has broken.'
+  wand-given: '&aYou have received a craft wand.'
+Item:
+  type: STICK
+  glowing: true
+  name: '&e&l--- &r&8[ &6&lCraft Wand &r&8] &e&l---'
+  lore:
+    - '&7Uses: {uses}'
+    - ''
+    - '&7Left click on a chest to craft ingots into blocks.'
+    - ''

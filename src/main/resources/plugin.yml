@@ -1,0 +1,6 @@
+name: SideCraftWand
+version: 1.0
+main: lv.side.craftwand.Main
+commands:
+  craftwand:
+    description: Main Command

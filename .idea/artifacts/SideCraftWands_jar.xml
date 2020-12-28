@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SideCraftWands:jar">
+    <output-path>$PROJECT_DIR$/../..</output-path>
+    <root id="archive" name="SideCraftWands.jar">
+      <element id="module-output" name="SideCraftWands" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/de/tr7zw/item-nbt-api-plugin/2.6.0/item-nbt-api-plugin-2.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
